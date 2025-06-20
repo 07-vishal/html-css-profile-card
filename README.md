@@ -14,7 +14,7 @@ This project showcases:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/html-css-profile-card.git
+   git clone https://github.com/07-vishal/html-css-profile-card.git
 2. Navigate into the project folder:
 
 bash
